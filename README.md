@@ -1,10 +1,5 @@
 # 94. Binary Tree Inorder Traversal Problem Solved: Uncover the Most Efficient Java Algorithm!
 
-Related code_study: https://www.notion.so/94-Binary-Tree-Inorder-Traversal-107b204942e2491aac593c3cd05508ce
-homepage: No
-languange: Java
-written language: English
-
 # Problem
 
 [Problem_Link](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
